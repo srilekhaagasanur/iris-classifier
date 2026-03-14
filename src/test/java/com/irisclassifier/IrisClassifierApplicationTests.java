@@ -1,4 +1,4 @@
-package com.irisclassifier.iris_classifier;
+package com.irisclassifier;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
